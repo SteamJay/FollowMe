@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+	<FollowMe.Cancel>Slutat följa {0}.</FollowMe.Cancel>
+	<FollowMe.Follow>Följer {0}.</FollowMe.Follow>
+
+	<FollowMe.RejectMultiple>Kan inte följa, flera val.</FollowMe.RejectMultiple>
+	<FollowMe.RejectNoSelection>Kan inte följa, inget vald.</FollowMe.RejectNoSelection>
+	<FollowMe.RejectNotAThing>Kan inte följa, valet är inte en grej.</FollowMe.RejectNotAThing>
+
+	<FollowMe.Notifications>Visa notifiering</FollowMe.Notifications>
+	<FollowMe.Notifications.Tooltip>Ska notifiering visa när följande objekt ändras?</FollowMe.Notifications.Tooltip>
+	<FollowMe.Sounds>Spela ljud</FollowMe.Sounds>
+	<FollowMe.Sounds.Tooltip>Ska ett ljud spela upp när följande objekt ändras?</FollowMe.Sounds.Tooltip>
+	<FollowMe.EdgeDetection>Muskant upptäckt </FollowMe.EdgeDetection>
+	<FollowMe.EdgeDetection.Tooltip>Ska vi sluta följa när musen är nära kanten av skärmen?</FollowMe.EdgeDetection.Tooltip>
+
+</LanguageData>
